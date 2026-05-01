@@ -97,8 +97,8 @@ I also have experience with **C#**, **Java**, **REST**, **Git**, and I am explor
 
 | | Course | Status |
 |:---:|:---|:---:|
-| ◈ | Técnico em Desenvolvimento de Sistemas – SENAI | ✅ Complete |
-| ◈ | Técnico em Manutenção e Suporte em Informática – SENAI | 🔄 In Progress |
+| ◈ | Systems Development Technician – SENAI | ✅ Complete |
+| ◈ | Computer Maintenance and Support Technician – SENAI | 🔄 In Progress |
 | ◈ | SEU CURSO 3 | ✅ Complete |
 | ◈ | SEU CURSO 4 | ✅ Complete |
 
@@ -108,7 +108,7 @@ I also have experience with **C#**, **Java**, **REST**, **Git**, and I am explor
 
 <div align="center">
 
-[![SEU_REPO](https://github-readme-stats.vercel.app/api/pin/?username=ladymnria&repo=SEU_REPO&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/ladymnria/SEU_REPO)
+[![projetoTCC-registroPontoFacial](https://github-readme-stats.vercel.app/api/pin/?username=charles53464&repo=projetoTCC-registroPontoFacial&theme=dark&title_color=9400D3&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=9400D3)](https://github.com/charles53464/projetoTCC-registroPontoFacial)
 
 </div>
 
@@ -116,6 +116,6 @@ I also have experience with **C#**, **Java**, **REST**, **Git**, and I am explor
 
 <div align="center">
 
-*† Seek Paleblood to transcend the Hunt †*
+*† Life and death are laws of nature. All living beings are equal, and all have the right to survive and to die. There may be royalty and inferior beings, but in the face of death, the death of a person is no different from that of a pig; what is the difference? Both are dead. — Fang Yuan †*
 
 </div>
