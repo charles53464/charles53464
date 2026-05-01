@@ -1,11 +1,11 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/1139017.jpg" width="100%" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/charles53464/charles53464/main/1139017.jpg" width="100%" alt="banner"/>
 </div>
 
 <!-- TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Tier+1+Support+Future+Pentester;I+am+the+record+of+your+struggles%2C+the+proof+of+your+endurance%2C+and+the+reward+for+your+suffering.;I+am+death.;I+am+eternal+rest.;I+am+terror.+-+Ashborn" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=9400D3&center=true&vCenter=true&width=600&lines=Tier+1+Support+Future+Pentester;I+am+the+record+of+your+struggles%2C+the+proof+of+your+endurance%2C+and+the+reward+for+your+suffering.;I+am+death.;I+am+eternal+rest.;I+am+terror.+-+Ashborn" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -28,23 +28,28 @@
 
 ---
 
+<table>
+<tr>
+<td>
+
 **Level 1 Support**
 
 > *"If pain doesn't kill me, it will certainly make me stronger."*
 
 Currently, I am deepening my studies in **Python** and **SQL**, applying this knowledge to real personal projects—such as facial recognition registration.
 
-I also have experience with **C#**, **Java**, **Rest**, **Git**, and I am exploring **AWS and Cloud Computing**.
+I also have experience with **C#**, **Java**, **REST**, **Git**, and I am exploring **AWS and Cloud Computing**.
 
-<img align="right" width="240px" src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/charpng.jpg" alt="character"/>
+</td>
 
-<br clear="right"/>
+<td>
+<img width="240px"
+     src="https://raw.githubusercontent.com/charles53464/charles53464/main/Ranker%20who%20lives%20a%20second%20time.jpg"
+     alt="character"/>
+</td>
 
-◈ Class → Level 1 Support
-◈ Origin → Brazil 🇧🇷
-◈ Covenant → Open Source
-◈ Build → INT / FAITH
-◈ Status → Healer. Refuses to be hollow.
+</tr>
+</table>
 
 ---
 
@@ -52,19 +57,13 @@ I also have experience with **C#**, **Java**, **Rest**, **Git**, and I am explor
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=c9a84c)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=c9a84c)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=c9a84c)
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=c9a84c)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=c9a84c)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=c9a84c)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=c9a84c)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=c9a84c)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=c9a84c)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=c9a84c)
-![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=c9a84c)
-![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
-
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=6A0DAD)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=6A0DAD)
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=6A0DAD)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=6A0DAD)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=6A0DAD)
+![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=6A0DAD)
+![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=6A0DAD)
 </div>
 
 ---
@@ -98,8 +97,8 @@ I also have experience with **C#**, **Java**, **Rest**, **Git**, and I am explor
 
 | | Course | Status |
 |:---:|:---|:---:|
-| ◈ | SEU CURSO 1 | 🔄 In Progress |
-| ◈ | SEU CURSO 2 | 🔄 In Progress |
+| ◈ | Técnico em Desenvolvimento de Sistemas – SENAI | ✅ Complete |
+| ◈ | Técnico em Manutenção e Suporte em Informática – SENAI | 🔄 In Progress |
 | ◈ | SEU CURSO 3 | ✅ Complete |
 | ◈ | SEU CURSO 4 | ✅ Complete |
 
