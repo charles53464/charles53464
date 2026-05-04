@@ -62,22 +62,21 @@ I also have experience with **C#**, **Java**, **REST**, **Git**, and I am explor
 ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=6A0DAD)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=6A0DAD)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=6A0DAD)
-![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=6A0DAD)
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=6A0DAD)
+
 </div>
 
----
-
-## Statistics
+## 📊 Statistics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ladymnria&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=charles53464&theme=dark&ring=9400D3&fire=9400D3&currStreakLabel=9400D3&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=9400D3&cache_seconds=86400" />
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ladymnria&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladymnria&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=charles53464&show_icons=true&theme=dark&title_color=9400D3&icon_color=9400D3&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&include_all_commits=true&cache_seconds=86400"/>
+
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=charles53464&layout=compact&theme=dark&title_color=9400D3&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&langs_count=8&cache_seconds=86400"/>
 
 </div>
 
@@ -87,12 +86,11 @@ I also have experience with **C#**, **Java**, **REST**, **Git**, and I am explor
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ladymnria&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/ladymnria)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=charles53464&bg_color=0d0d0d&color=9400D3&line=9400D3&point=ffffff&area=true&area_color=2a003f&hide_border=false&border_color=2a2a2a&title_color=9400D3)](https://github.com/charles53464)
 
 </div>
 
 ---
-
 ## 🕯️ Bonfires Lit — Education
 
 | | Course | Status |
