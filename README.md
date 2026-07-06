@@ -23,7 +23,7 @@
 |:---:|:---|:---:|
 | ◈ | Systems Development Technician – SENAI | ✅ Complete |
 | ◈ | Computer Network Technician – SENAI | 🔄 In Progress |
-| ◈ | SEU CURSO 3 | ❌ Progress not started |
-| ◈ | SEU CURSO 4 | ❌ Progress not started |
-
+| ◈ | Cybersecurity technician – SENAI | ❌ Progress not started |
+| ◈ | Computer maintenance and repair technician – SENAI | ❌ Progress not started |
+| ◈ | Bachelor's degree in Software Engineering | ❌ Progress not started |
 ---
