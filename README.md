@@ -24,6 +24,6 @@
 | ◈ | Systems Development Technician – SENAI | ✅ Complete |
 | ◈ | Computer Network Technician – SENAI | 🔄 In Progress |
 | ◈ | Cybersecurity technician – SENAI | ❌ Progress not started |
-| ◈ | Computer maintenance and repair technician – SENAI | ❌ Progress not started |
-| ◈ | Bachelor's degree in Software Engineering | ❌ Progress not started |
+| ◈ | Computer Maintenance and Repair Technician – SENAI | ❌ Progress not started |
+| ◈ | Bachelor's Degree in Software Engineering | ❌ Progress not started |
 ---
