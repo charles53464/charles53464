@@ -5,9 +5,13 @@
 - <b>Facial Recognition Project</b>
   - 🔗 https://github.com/charles53464/projetoTCC-registroPontoFacial
 
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Capstone project explanatory video](https://youtu.be/4wnF0JWDBpk?si=CTGCZnb2j0i7z2n-)
+
 <h2>🤳 Connect with me:</h2>
 
-<a href="https://linkedin.com/in/joshmadakor">
+<a href="https://www.linkedin.com/in/charles-oliveira-282006391">
   <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
